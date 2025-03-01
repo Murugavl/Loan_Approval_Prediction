@@ -7,7 +7,7 @@ with open("Loan_Approval_Prediction.pkl", "rb") as model_file:
     model = pickle.load(model_file)
 
 # Streamlit UI
-st.set_page_config(page_title="🏦 Loan Approval Prediction", layout="wide")
+st.set_page_config(page_title="Loan Approval Prediction", layout="wide", page_icon="🏦")
 
 # Add a header with a fancy title
 st.title("🏦 Loan Approval Prediction")
