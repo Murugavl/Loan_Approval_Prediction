@@ -76,8 +76,6 @@ if button:
     # Display Result in a styled box
     st.markdown(f'<div class="prediction-text">{result}</div>', unsafe_allow_html=True)
 
-    # Additional Information
-    st.markdown("### Additional Information:")
     if result == "Approved ✅":
         st.markdown("Congratulations! Your loan is approved. 🎉")
     else:
