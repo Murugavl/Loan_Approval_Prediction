@@ -1,6 +1,4 @@
-# Loan Approval Prediction
-
-![Loan Approval Prediction🏦]
+# Loan Approval Prediction 🏦
 
 ## 🚀 Project Overview
 This project is a **Loan Approval Prediction System** that uses **Machine Learning** to determine whether a loan application should be approved or rejected based on various factors. It is deployed using **Streamlit** for an interactive user experience.
